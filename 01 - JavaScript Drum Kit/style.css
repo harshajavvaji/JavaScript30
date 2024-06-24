@@ -3,6 +3,9 @@ html {
   background: url('./background.jpg') bottom center;
   background-size: cover;
 }
+p{
+  color: #ffc600;
+}
 
 body,html {
   margin: 0;
